@@ -1,0 +1,1 @@
+under '~' path to run '/Users/frank.su/mongodb/bin/mongod --dbpath=/Users/frank.su/mongodb-data' code to create a database
