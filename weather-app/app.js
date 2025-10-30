@@ -8,7 +8,7 @@ setTimeout(() => {
 }, 50);
 
 setTimeout(() => {
-  console.log("Timeout 2", 100); // 延迟时间 100 毫秒
+  console.log("Timeout 22", 100); // 延迟时间 100 毫秒
   setTimeout(() => {
     console.log("Timeout 4", 0);
   }, 0);
